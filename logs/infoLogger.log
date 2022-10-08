@@ -1,0 +1,7 @@
+[2022-10-07T23:42:23.231] [INFO] default - GET /api/products
+[2022-10-07T23:42:34.799] [INFO] default - GET /api/users
+[2022-10-07T23:42:50.607] [INFO] default - POST /api/users/
+[2022-10-07T23:48:55.089] [INFO] default - POST /api/users/
+[2022-10-07T23:49:46.752] [INFO] default - POST /api/users/
+[2022-10-07T23:49:52.190] [INFO] default - GET /api/users/
+[2022-10-07T23:50:55.734] [INFO] default - GET /api/users/1
